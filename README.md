@@ -20,7 +20,7 @@ Use this command to install Pyzbar
 pip install pyzbar
 ```
 
-###
+##
 ### EXECUTION
 
 In terminal or command window, navigate to the project directory `QR-and-Barcode-Scanner/` and run the following command:
@@ -28,7 +28,7 @@ In terminal or command window, navigate to the project directory `QR-and-Barcode
 python -m qrscanner.py
 ```
 
-###
+##
 ### SCREENSHOT
 
 ![QR Screenshot1](https://user-images.githubusercontent.com/80042740/118488356-46932780-b739-11eb-9c6f-bf7c11274bd0.png)
