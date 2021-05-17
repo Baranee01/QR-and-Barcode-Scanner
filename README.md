@@ -38,8 +38,8 @@ pip install imutils
 ### CONNECTING MOBILE CAMERA TO PC
 
 - Download and install [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en) application on your mobile phone.
-- Then make sure your PC and Phone both are connected to the same network. Open your IP Webcam application on your both, click **Start Server** (usually found at the bottom). This will open a camera on your Phone.
-- A URL is being displayed on the Phone screen, type the same URL on your PC browser, and under **Video renderer** Section, click on **Javascript**.
+- Then make sure your PC and Phone both are connected to the same network. Open your IP Webcam application on your both, click "**Start Server**" (usually found at the bottom). This will open a camera on your Phone.
+- A URL is being displayed on the Phone screen, type the same URL on your PC browser, and under "**Video renderer**" Section, click on "**Javascript**".
 - Video Footage from your mobile will be displayed on the browser.
 
 ##
