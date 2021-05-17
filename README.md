@@ -1,1 +1,1 @@
-# QR-and-Barcode-Scanner
+# QR and Barcode Scanner
