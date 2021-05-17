@@ -1,5 +1,7 @@
 # QR and Barcode Scanner
 
+Implementation of real time QR and Barcode scanner using Python and OpenCV.
+
 ### INSTALLATION
 
 ###
