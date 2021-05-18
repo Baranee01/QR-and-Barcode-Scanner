@@ -36,8 +36,3 @@ while True:
 
 #CLOSING ALL WINDOWS
 cv2.destroyAllWindows()
-
-    
-    
-
-    
