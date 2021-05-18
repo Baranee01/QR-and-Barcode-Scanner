@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 from pyzbar.pyzbar import decode
 
 #GETTING VIDEO FROM MOBILE
-#REPLACE THE BELOW URL WITH YOUR QWN. MAKE SURE TO ADD "/shot.jpg" AT LAST.
+#REPLACE THE BELOW URL WITH YOUR OWN URL. MAKE SURE TO ADD "/shot.jpg" AT LAST.
 url = "https://192.168.1.3:8080/shot.jpg"
 video = cv2.VideoCapture(url)
 
