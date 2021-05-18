@@ -14,9 +14,9 @@ video = cv2.VideoCapture(url)
 
 #FETCHING VIDEO CONTINUOUSLY FROM THE URL
 while True:
-    image_resp = requests.get(url,verify = False)
-    image_arr = np.array(bytearray(image_resp.content), dtype=np.uint8)
-    image = cv2.imdecode(image_arr, -1)
+    image_response = requests.get(url,verify = False)
+    image_array = np.array(bytearray(image_response.content), dtype=np.uint8)
+    image = cv2.imdecode(image_array, -1)
     image = imutils.resize(image, width=720, height=1080)
 
     #DECODING THE IMAGE
